@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kenz-code
+- 👋 Hi, I’m Kenbo
 - 👀 I’m interested in game dev in godot and app dev in flutter
 - 💞️ I’m looking to collaborate on game with godot
 - 📫 How to reach me Discord: kenborl
