@@ -32,7 +32,3 @@ These days I spend most of my time building with Flutter. I enjoy designing apps
 Portfolio: https://kenbodev-portfolio.web.app/
 
 Discord: `kenbo100`
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kenz-code\&show_icons=true\&hide_border=true\&rank_icon=github\&theme=transparent)
